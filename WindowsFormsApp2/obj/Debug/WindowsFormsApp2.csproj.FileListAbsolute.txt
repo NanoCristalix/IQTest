@@ -1,0 +1,43 @@
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Admin.resources
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdminPrsanja.resources
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IQTEST.resources
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Korisnik.resources
+C:\Users\Neno\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mail.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Admin.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdminPrsanja.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IQTEST.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Korisnik.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mail.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Nano_\OneDrive\Desktop\WindowsFormsApp2\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Admin.resources
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.AdminPrsanja.resources
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IQTEST.resources
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Korisnik.resources
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Mail.resources
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Nano_\OneDrive\Desktop\Diplomska-Ui upgrade\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
